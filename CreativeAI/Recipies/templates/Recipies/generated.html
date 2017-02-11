@@ -1,0 +1,44 @@
+{% extends "Recipies/base.html" %}
+{% block main %}
+    <style>
+    html, body {
+        margin: 0; 
+        background-color : #45BBA9 !important;
+    }
+    .fill-height {
+        min-height: 100%;
+        height:auto !important; 
+        height: 100%; 
+    }
+
+    .navbar {
+        background-color:  #45BBA9 !important;
+    }
+
+    .shadow {
+        background-color: white;
+        padding: 10px;
+        width: 100%;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        text-align: left;
+        margin-left: 10px;
+    }
+    </style>
+
+    <div class='container full-height' style="margin-top: 5%;">
+    <div class='row'>
+        <div class='col-sm-12'>
+            <br><br>
+            {% for text in genList %}
+                <div class='shadow animated fadeInUp'>
+                {% for i in text %}
+                    <p>{{ i }}</p>
+                {% endfor %}
+                </div>
+                <br>
+            {% endfor %}
+        </div>
+    </div>
+    </div>
+{% endblock %}
+

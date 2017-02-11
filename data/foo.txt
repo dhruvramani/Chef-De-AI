@@ -1,0 +1,449 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US" prefix="og: http://ogp.me/ns#">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<title>Citrus Chicken and Rice Soup - A Family Feast</title><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+ 
+<meta name="description" content="Citrus Chicken and Rice Soup - Orange, lemon and lime juice add a fresh flavor twist to this classic chicken soup recipe."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://www.afamilyfeast.com/citrus-chicken-and-rice-soup/"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Citrus Chicken and Rice Soup - A Family Feast"/>
+<meta property="og:description" content="Citrus Chicken and Rice Soup - Orange, lemon and lime juice add a fresh flavor twist to this classic chicken soup recipe."/>
+<meta property="og:url" content="http://www.afamilyfeast.com/citrus-chicken-and-rice-soup/"/>
+<meta property="og:site_name" content="A Family Feast"/>
+<meta property="article:publisher" content="https://www.facebook.com/AFamilyFeast"/>
+<meta property="article:tag" content="chicken"/>
+<meta property="article:tag" content="lemon juice"/>
+<meta property="article:tag" content="lime juice"/>
+<meta property="article:tag" content="orange juice"/>
+<meta property="article:tag" content="rice"/>
+<meta property="article:section" content="Soup"/>
+<meta property="article:published_time" content="2017-01-23T06:00:21+00:00"/>
+<meta property="article:modified_time" content="2017-01-22T10:32:46+00:00"/>
+<meta property="og:updated_time" content="2017-01-22T10:32:46+00:00"/>
+<meta property="og:image" content="http://cdn1.afamilyfeast.com/wp-content/uploads/2017/01/Citrus-Chicken-Soup2.jpg"/>
+<meta property="og:image:width" content="700"/>
+<meta property="og:image:height" content="1050"/>
+ 
+<link rel='dns-prefetch' href='//s0.wp.com'/>
+<link rel='dns-prefetch' href='//s.gravatar.com'/>
+<link rel='dns-prefetch' href='//cdn2.afamilyfeast.com'/>
+<link rel='dns-prefetch' href='//s.w.org'/>
+<link rel='dns-prefetch' href='//cdn1.afamilyfeast.com'/>
+<link rel="alternate" type="application/rss+xml" title="A Family Feast &raquo; Feed" href="http://www.afamilyfeast.com/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="A Family Feast &raquo; Comments Feed" href="http://www.afamilyfeast.com/comments/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="A Family Feast &raquo; Citrus Chicken and Rice Soup Comments Feed" href="http://www.afamilyfeast.com/citrus-chicken-and-rice-soup/feed/"/>
+ 
+<script type='text/javascript' data-cfasync='false'>
+  //<![CDATA[
+    _SHR_SETTINGS = {"endpoints":{"local_recs_url":"http:\/\/www.afamilyfeast.com\/wp-admin\/admin-ajax.php?action=shareaholic_permalink_related","share_counts_url":"http:\/\/www.afamilyfeast.com\/wp-admin\/admin-ajax.php?action=shareaholic_share_counts_api"}};
+  //]]>
+</script>
+<script type='text/javascript' data-cfasync='false' src='//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js' data-shr-siteid='2f1001d463dd641b6e07873fda29f8e8' async='async'>
+</script>
+ 
+<meta name='shareaholic:site_name' content='A Family Feast'/>
+<meta name='shareaholic:language' content='en-US'/>
+<meta name='shareaholic:url' content='http://www.afamilyfeast.com/citrus-chicken-and-rice-soup/'/>
+<meta name='shareaholic:keywords' content='chicken, lemon juice, lime juice, orange juice, rice, citrus chicken and rice soup, soup'/>
+<meta name='shareaholic:article_published_time' content='2017-01-23T10:00:21+00:00'/>
+<meta name='shareaholic:article_modified_time' content='2017-01-27T13:27:49+00:00'/>
+<meta name='shareaholic:shareable_page' content='true'/>
+<meta name='shareaholic:article_author_name' content='Martha'/>
+<meta name='shareaholic:site_id' content='2f1001d463dd641b6e07873fda29f8e8'/>
+<meta name='shareaholic:wp_version' content='7.8.0.4'/>
+<meta name='shareaholic:image' content='http://cdn1.afamilyfeast.com/wp-content/uploads/2017/01/Citrus-Chicken-Soup2-683x1024.jpg'/>
+ 
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/cdn2.afamilyfeast.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.1"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
+<link rel='stylesheet' id='familyfeast-theme-css' href='http://cdn2.afamilyfeast.com/wp-content/themes/familyfeast/style.css?ver=2.4.2' type='text/css' media='all'/>
+<link rel='stylesheet' id='pinterest-pinboard-widget-style-css' href='http://cdn2.afamilyfeast.com/wp-content/plugins/pinterest-pinboard-widget/style.css?v=1&#038;ver=4.7.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='swiftype-css' href='http://cdn2.afamilyfeast.com/wp-content/plugins/swiftype-search/assets/autocomplete.css?ver=4.7.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='simple-social-icons-font-css' href='http://cdn2.afamilyfeast.com/wp-content/plugins/simple-social-icons/css/style.css?ver=2.0.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='easyrecipestyle-reset-css' href='http://cdn2.afamilyfeast.com/wp-content/plugins/easyrecipeplus/css/easyrecipe-style-reset-min.css?ver=3.5.3226' type='text/css' media='all'/>
+<link rel='stylesheet' id='easyrecipebuttonUI-css' href='http://cdn2.afamilyfeast.com/wp-content/plugins/easyrecipeplus/ui/easyrecipe-buttonUI.css?ver=3.5.3226' type='text/css' media='all'/>
+<link rel='stylesheet' id='easyrecipestyle-css' href='http://cdn2.afamilyfeast.com/wp-content/plugins/easyrecipeplus/styles/style003/style.css?ver=3.5.3226.1.2' type='text/css' media='all'/>
+<link rel='stylesheet' id='jetpack_css-css' href='http://cdn2.afamilyfeast.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.5' type='text/css' media='all'/>
+<link rel='stylesheet' id='commentluv_style-css' href='http://cdn2.afamilyfeast.com/wp-content/plugins/commentluv/css/commentluv.css?ver=4.7.1' type='text/css' media='all'/>
+<script type='text/javascript' src='http://cdn2.afamilyfeast.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://cdn2.afamilyfeast.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cl_settings = {"name":"author","url":"url","comment":"comment","email":"email","infopanel":"on","default_on":"on","default_on_admin":"on","cl_version":"2.94.7","images":"http:\/\/www.afamilyfeast.com\/wp-content\/plugins\/commentluv\/images\/","api_url":"http:\/\/www.afamilyfeast.com\/wp-admin\/admin-ajax.php","_fetch":"5cbdd5529c","_info":"d55dd4c07d","infoback":"white","infotext":"black","template_insert":"","logged_in":"","refer":"http:\/\/www.afamilyfeast.com\/citrus-chicken-and-rice-soup\/","no_url_message":"Please enter a URL and then click the CommentLuv checkbox if you want to add your last blog post","no_http_message":"Please use http:\/\/ in front of your url","no_url_logged_in_message":"You need to visit your profile in the dashboard and update your details with your site URL","no_info_message":"No info was available or an error occured"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn2.afamilyfeast.com/wp-content/plugins/commentluv/js/commentluv.js?ver=2.94.7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var swiftypeParams = {"engineKey":"BhSGt1XyTpsKMrWzAscM"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn2.afamilyfeast.com/wp-content/plugins/swiftype-search/assets/install_swiftype.min.js?ver=4.7.1'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://cdn2.afamilyfeast.com/wp-content/themes/genesis/lib/js/html5shiv.min.js?ver=3.7.3'></script>
+<![endif]-->
+<script type='text/javascript' src='http://cdn2.afamilyfeast.com/wp-content/plugins/simple-social-icons/svgxuse.js?ver=1.1.21'></script>
+<script type='text/javascript' src='http://cdn2.afamilyfeast.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://cdn2.afamilyfeast.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://cdn2.afamilyfeast.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://cdn2.afamilyfeast.com/wp-content/plugins/easyrecipeplus/js/easyrecipe-min.js?ver=3.5.3226'></script>
+<link rel='https://api.w.org/' href='http://www.afamilyfeast.com/wp-json/'/>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.afamilyfeast.com/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.afamilyfeast.com/wp-includes/wlwmanifest.xml"/>
+<meta name="generator" content="WordPress 4.7.1"/>
+<link rel='shortlink' href='http://wp.me/p2LCw0-5FJ'/>
+<link rel="alternate" type="application/json+oembed" href="http://www.afamilyfeast.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.afamilyfeast.com%2Fcitrus-chicken-and-rice-soup%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="http://www.afamilyfeast.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.afamilyfeast.com%2Fcitrus-chicken-and-rice-soup%2F&#038;format=xml"/>
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<link rel="icon" href="http://www.afamilyfeast.com/wp-content/themes/familyfeast/images/favicon.ico"/>
+<link rel="pingback" href="http://www.afamilyfeast.com/xmlrpc.php"/>
+ 
+<script>window.adthrive = window.adthrive || {};
+window.adthrive.cmd = window.adthrive.cmd || [];
+
+(function() {
+  var script = document.createElement('script');
+  script.async = true;
+  script.type = 'text/javascript';
+  script.src = 'http://ads.adthrive.com/sites/52e41fac28963d1e058a1126/ads.min.js';
+  var node = document.getElementsByTagName('script')[0];
+  node.parentNode.insertBefore(script, node);
+})();
+</script>
+ 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-35944441-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+ 
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '593204124194951');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=593204124194951&ev=PageView&noscript=1"/></noscript>
+ 
+<style type="text/css" media="screen">.simple-social-icons ul li a,.simple-social-icons ul li a:hover,.simple-social-icons ul li a:focus{background-color:#cd632c!important;border-radius:3px;color:#ffffff!important;border:0px #ffffff solid!important;font-size:16px;padding:8px;}.simple-social-icons ul li a:hover,.simple-social-icons ul li a:focus{background-color:#7fb2c7!important;border-color:#ffffff!important;color:#ffffff!important;}.simple-social-icons ul li a:focus{outline:1px dotted #7fb2c7!important;}</style><style type="text/css"></style>
+<link rel="stylesheet" type="text/css" id="wp-custom-css" href="http://www.afamilyfeast.com/?custom-css=ca61891bde"/>
+</head>
+<body class="post-template-default single single-post postid-21807 single-format-standard header-image content-sidebar-sidebar er-recipe"><div id="floatsignup">
+<p>Sign up for A Family Feast emails and receive our FREE eBook with our Top 25 Recipes of All Time! <a href="http://eepurl.com/BF_ND" target="_blank">Click Here</a></p>
+</div>
+<div id="fb-root"></div>
+<script>(function(d, s, id) { 
+var js, fjs = d.getElementsByTagName(s)[0]; 
+if (d.getElementById(id)) return; 
+js = d.createElement(s); js.id = id; 
+js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.0"; 
+fjs.parentNode.insertBefore(js, fjs); 
+}(document, 'script', 'facebook-jssdk'));</script><div id="wrap"><div class="utility-bar"><div class="wrap"></div></div><div id="header"><div class="wrap"><div id="title-area"><p id="title"><a href="http://www.afamilyfeast.com/">A Family Feast</a></p><p id="description">Delicious Recipes for Everyday Meals and Special Occasions</p></div><div class="widget-area header-widget-area"><div id="simple-social-icons-3" class="widget simple-social-icons"><div class="widget-wrap"><h4 class="widget-title widgettitle">Subscribe &#038; Follow</h4>
+<ul class="alignright"><li class="ssi-email"><a href="http://eepurl.com/BF_ND" target="_blank"><svg role="img" class="social-email" aria-labelledby="social-email"><title id="social-email">Email</title><use xlink:href="http://www.afamilyfeast.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-email"></use></svg></a></li><li class="ssi-facebook"><a href="http://Www.facebook.com/afamilyfeast" target="_blank"><svg role="img" class="social-facebook" aria-labelledby="social-facebook"><title id="social-facebook">Facebook</title><use xlink:href="http://www.afamilyfeast.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a></li><li class="ssi-gplus"><a href="https://plus.google.com/+MarthaPesa/posts?hl=en" target="_blank"><svg role="img" class="social-gplus" aria-labelledby="social-gplus"><title id="social-gplus">Google+</title><use xlink:href="http://www.afamilyfeast.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-gplus"></use></svg></a></li><li class="ssi-instagram"><a href="http://Www.instagram.com/afamilyfeast" target="_blank"><svg role="img" class="social-instagram" aria-labelledby="social-instagram"><title id="social-instagram">Instagram</title><use xlink:href="http://www.afamilyfeast.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-instagram"></use></svg></a></li><li class="ssi-pinterest"><a href="http://Www.pinterest.com/afamilyfeast" target="_blank"><svg role="img" class="social-pinterest" aria-labelledby="social-pinterest"><title id="social-pinterest">Pinterest</title><use xlink:href="http://www.afamilyfeast.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-pinterest"></use></svg></a></li><li class="ssi-rss"><a href="http://Feeds.feedburner.com/afamilyfeast" target="_blank"><svg role="img" class="social-rss" aria-labelledby="social-rss"><title id="social-rss">RSS</title><use xlink:href="http://www.afamilyfeast.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-rss"></use></svg></a></li><li class="ssi-twitter"><a href="http://Www.twitter.com/afamilyfeast" target="_blank"><svg role="img" class="social-twitter" aria-labelledby="social-twitter"><title id="social-twitter">Twitter</title><use xlink:href="http://www.afamilyfeast.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li><li class="ssi-youtube"><a href="https://www.youtube.com/channel/UCxaMa1XA8FCYHtIs5ydw7zg" target="_blank"><svg role="img" class="social-youtube" aria-labelledby="social-youtube"><title id="social-youtube">YouTube</title><use xlink:href="http://www.afamilyfeast.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-youtube"></use></svg></a></li></ul></div></div>
+<div id="search-4" class="widget widget_search"><div class="widget-wrap"><form method="get" class="searchform search-form" action="http://www.afamilyfeast.com/" role="search"><input type="text" value="Search this website &#x2026;" name="s" class="s search-input" onfocus="if (&#039;Search this website &#x2026;&#039; === this.value) {this.value = &#039;&#039;;}" onblur="if (&#039;&#039; === this.value) {this.value = &#039;Search this website &#x2026;&#039;;}"/><input type="submit" class="searchsubmit search-submit" value="Search"/></form></div></div>
+</div></div></div><div id="nav"><div class="wrap"><ul id="menu-home" class="menu genesis-nav-menu menu-primary js-superfish"><li id="menu-item-726" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-726"><a href="http://www.afamilyfeast.com/">Home</a></li>
+<li id="menu-item-141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-141"><a href="http://www.afamilyfeast.com/recipe-index/">Recipe Index</a>
+<ul class="sub-menu">
+<li id="menu-item-12149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12149"><a href="http://www.afamilyfeast.com/alphabetical-list/">Alphabetical List of Recipes</a></li>
+<li id="menu-item-2829" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2829"><a href="http://www.afamilyfeast.com/category/categorized/appetizer/">Appetizer</a></li>
+<li id="menu-item-2831" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2831"><a href="http://www.afamilyfeast.com/category/categorized/beverage/">Beverage</a></li>
+<li id="menu-item-7820" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7820"><a href="http://www.afamilyfeast.com/category/categorized/bread/">Bread</a></li>
+<li id="menu-item-2830" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2830"><a href="http://www.afamilyfeast.com/category/categorized/breakfast/">Breakfast</a></li>
+<li id="menu-item-8301" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8301"><a href="http://www.afamilyfeast.com/category/categorized/collections/">Collections</a></li>
+<li id="menu-item-2826" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2826"><a href="http://www.afamilyfeast.com/category/categorized/dessert/">Dessert</a></li>
+<li id="menu-item-2825" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2825"><a href="http://www.afamilyfeast.com/category/categorized/entree/">Entrée</a></li>
+<li id="menu-item-149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="http://www.afamilyfeast.com/how-tos/">How To&#8217;s</a></li>
+<li id="menu-item-2827" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2827"><a href="http://www.afamilyfeast.com/category/categorized/salad/">Salad</a></li>
+<li id="menu-item-2824" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2824"><a href="http://www.afamilyfeast.com/category/categorized/side-dish/">Side Dish</a></li>
+<li id="menu-item-2838" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2838"><a href="http://www.afamilyfeast.com/category/categorized/snack/">Snack</a></li>
+<li id="menu-item-2828" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2828"><a href="http://www.afamilyfeast.com/category/categorized/soup/">Soup</a></li>
+<li id="menu-item-9168" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9168"><a href="http://www.afamilyfeast.com/category/categorized/sunday-cooking-lessons/">Sunday Cooking Lessons</a></li>
+<li id="menu-item-15842" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15842"><a href="http://www.afamilyfeast.com/category/categorized/home/">Our Home</a></li>
+<li id="menu-item-10701" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10701"><a href="http://www.afamilyfeast.com/category/categorized/travel/">Travel</a></li>
+</ul>
+</li>
+<li id="menu-item-1734" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1734"><a href="http://www.afamilyfeast.com/menu-ideas/">Menu Ideas</a>
+<ul class="sub-menu">
+<li id="menu-item-13449" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13449"><a href="http://www.afamilyfeast.com/tag/cinco-de-mayo/">Cinco de Mayo Recipes</a></li>
+<li id="menu-item-14439" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14439"><a href="http://www.afamilyfeast.com/tag/easter/">Easter Dinner</a></li>
+<li id="menu-item-6840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6840"><a href="http://www.afamilyfeast.com/game-day-party-recipes/">Game Day Party Recipes</a></li>
+<li id="menu-item-14329" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14329"><a href="http://www.afamilyfeast.com/tag/helens-recipe-box/">Helen&#8217;s Recipe Box</a></li>
+<li id="menu-item-13451" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13451"><a href="http://www.afamilyfeast.com/tag/italian-family-classics/">Italian Family Classics</a></li>
+<li id="menu-item-14039" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14039"><a href="http://www.afamilyfeast.com/tag/new-england-classics/">New England Classics</a></li>
+<li id="menu-item-13764" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13764"><a href="http://www.afamilyfeast.com/tag/polish-family-classics/">Polish Family Classics</a></li>
+<li id="menu-item-13547" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13547"><a href="http://www.afamilyfeast.com/tag/seafood-2/">Sensational Seafood</a></li>
+<li id="menu-item-13687" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13687"><a href="http://www.afamilyfeast.com/tag/slow-cooker/">Slow Cooker Recipes</a></li>
+<li id="menu-item-4878" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4878"><a href="http://www.afamilyfeast.com/summer-barbeque-recipes/">Summer Barbeque Recipes</a></li>
+<li id="menu-item-13450" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13450"><a href="http://www.afamilyfeast.com/tag/quick-weeknight-dinners/">Quick Weeknight Dinners</a></li>
+</ul>
+</li>
+<li id="menu-item-18682" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18682"><a href="http://www.afamilyfeast.com/tag/healthy/">Healthy Options</a></li>
+<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-142"><a href="http://www.afamilyfeast.com/about-us/">About Us</a>
+<ul class="sub-menu">
+<li id="menu-item-2835" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2835"><a href="http://www.afamilyfeast.com/about-us/">About Us</a></li>
+<li id="menu-item-1513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1513"><a href="http://www.afamilyfeast.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-3330" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3330"><a href="http://www.afamilyfeast.com/featured/">Featured On</a></li>
+<li id="menu-item-6150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6150"><a href="http://www.afamilyfeast.com/work_with_us/">Work with Us</a></li>
+<li id="menu-item-5305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5305"><a href="http://www.afamilyfeast.com/legal/">Legal</a></li>
+</ul>
+</li>
+<li id="menu-item-21442" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21442"><a href="http://www.afamilyfeast.com/videos/">Videos</a></li>
+<li class="right search"><form method="get" class="searchform search-form" action="http://www.afamilyfeast.com/" role="search"><input type="text" value="Search this website &#x2026;" name="s" class="s search-input" onfocus="if (&#039;Search this website &#x2026;&#039; === this.value) {this.value = &#039;&#039;;}" onblur="if (&#039;&#039; === this.value) {this.value = &#039;Search this website &#x2026;&#039;;}"/><input type="submit" class="searchsubmit search-submit" value="Search"/></form></li></ul></div></div><div id="inner"><div id="content-sidebar-wrap"><div id="content" class="hfeed"><div class="post-21807 post type-post status-publish format-standard has-post-thumbnail hentry category-soup tag-chicken tag-lemon-juice tag-lime-juice tag-orange-juice tag-rice entry">
+<div class="wrap">
+<div class="left-corner"></div>
+<div class="right-corner"></div>
+<h1 class="entry-title">Citrus Chicken and Rice Soup</h1>
+<div class="post-info"><span class="date published time" title="2017-01-23T06:00:21+00:00">January 23, 2017</span> By <span class="author vcard"><span class="fn"><a href="http://www.afamilyfeast.com/author/martha/" rel="author">Martha</a></span></span> <span class="post-comments"><a href="http://www.afamilyfeast.com/citrus-chicken-and-rice-soup/#comments">2 Comments</a></span> </div><div class="entry-content"><div class='shareaholic-canvas' data-app-id='7683774' data-app='share_buttons' data-title='Citrus Chicken and Rice Soup' data-link='http://www.afamilyfeast.com/citrus-chicken-and-rice-soup/' data-summary=''></div><p><img class="aligncenter wp-image-21809 size-full" src="http://cdn1.afamilyfeast.com/wp-content/uploads/2017/01/Citrus-Chicken-Soup.jpg" alt="Citrus Chicken and Rice Soup - Orange, lemon and lime juice add a fresh flavor twist to this classic chicken soup recipe." width="700" height="1050" srcset="http://cdn1.afamilyfeast.com/wp-content/uploads/2017/01/Citrus-Chicken-Soup.jpg 700w, http://cdn1.afamilyfeast.com/wp-content/uploads/2017/01/Citrus-Chicken-Soup-200x300.jpg 200w, http://cdn1.afamilyfeast.com/wp-content/uploads/2017/01/Citrus-Chicken-Soup-683x1024.jpg 683w, http://cdn1.afamilyfeast.com/wp-content/uploads/2017/01/Citrus-Chicken-Soup-300x450.jpg 300w" sizes="(max-width: 700px) 100vw, 700px"/></p>
+<p style="text-align: center;"><em>Looking for a new twist on a classic chicken soup recipe? Today’s Citrus Chicken and Rice Soup is for you!</em></p>
+<p>I’m someone who loves a bowl of warm, comforting chicken soup just about any day of the week.  This easy and delicious Citrus Chicken and Rice Soup is destined to become a new favorite!</p>
+<p>We started with classic chicken and rice soup – but added orange juice to the broth, plus a little lemon and lime juice too.  The fresh citrus juices add a wonderful brightness to the soup – reminiscent of an Asian-inspired broth, and fresh cilantro and chopped scallions on top are the perfect finishing touch.</p>
+<p><img class="aligncenter wp-image-21810 size-full" src="http://cdn1.afamilyfeast.com/wp-content/uploads/2017/01/Citrus-Chicken-Soup3.jpg" alt="Citrus Chicken and Rice Soup - Orange, lemon and lime juice add a fresh flavor twist to this classic chicken soup recipe." width="700" height="1050" srcset="http://cdn1.afamilyfeast.com/wp-content/uploads/2017/01/Citrus-Chicken-Soup3.jpg 700w, http://cdn1.afamilyfeast.com/wp-content/uploads/2017/01/Citrus-Chicken-Soup3-200x300.jpg 200w, http://cdn1.afamilyfeast.com/wp-content/uploads/2017/01/Citrus-Chicken-Soup3-683x1024.jpg 683w, http://cdn1.afamilyfeast.com/wp-content/uploads/2017/01/Citrus-Chicken-Soup3-300x450.jpg 300w" sizes="(max-width: 700px) 100vw, 700px"/></p>
+<p>Inspiration for this Citrus Chicken and Rice Soup recipe came from a <a href="https://play.google.com/store/apps/details?id=air.com.yudu.ReaderAIR6194362&amp;hl=en" target="_blank" rel="nofollow">free recipe magazine from our local supermarket</a> – but we made it our own using <a href="http://www.afamilyfeast.com/chicken-stock/" target="_blank">Homemade Chicken Stock</a> and <a href="http://www.afamilyfeast.com/sunday-cooking-lesson-perfect-poached-chicken/" target="_blank">Perfect Poached Chicken</a>, plus some other changes. To make the recipe prep even easier, feel free to use a store-bought rotisserie chicken and canned chicken broth instead.</p>
+<p><img class="aligncenter wp-image-21811 size-full" src="http://cdn1.afamilyfeast.com/wp-content/uploads/2017/01/Citrus-Chicken-Soup2.jpg" alt="Citrus Chicken and Rice Soup - Orange, lemon and lime juice add a fresh flavor twist to this classic chicken soup recipe." width="700" height="1050" srcset="http://cdn1.afamilyfeast.com/wp-content/uploads/2017/01/Citrus-Chicken-Soup2.jpg 700w, http://cdn1.afamilyfeast.com/wp-content/uploads/2017/01/Citrus-Chicken-Soup2-200x300.jpg 200w, http://cdn1.afamilyfeast.com/wp-content/uploads/2017/01/Citrus-Chicken-Soup2-683x1024.jpg 683w, http://cdn1.afamilyfeast.com/wp-content/uploads/2017/01/Citrus-Chicken-Soup2-300x450.jpg 300w" sizes="(max-width: 700px) 100vw, 700px"/></p>
+<p>This Citrus Chicken and Rice Soup is a wonderful way to cook with in-season citrus fruits, and it’s a delicious way to warm up your belly this winter!<br/>
+<div id="easyrecipe-21807-0" class="easyrecipe" itemscope itemtype="http://schema.org/Recipe"> <div itemprop="name" class="ERSName">Citrus Chicken and Rice Soup</div> <div class="ERSClear">&nbsp;</div> <div> <div class="ERSPhoto"><img itemprop="image" src="http://cdn1.afamilyfeast.com/wp-content/uploads/2017/01/Citrus-Chicken-Soup2.jpg" width="205"/></div> <div class="ERSTopRight"> <div class="ERSRHSItem"><span class="ERSRHSLabel">Serves:</span> <span class="ERSRHSValue" itemprop="recipeYield">6-8 servings</span></div> <div class="ERSRHSItem"><span class="ERSRHSLabel">Prep time:</span> <time class="ERSRHSValue" itemprop="prepTime" datetime="PT20M">20 mins</time> </div> <div class="ERSRHSItem"><span class="ERSRHSLabel">Cook time:</span> <time class="ERSRHSValue" itemprop="cookTime" datetime="PT20M">20 mins</time> </div> <div class="ERSRHSItem"><span class="ERSRHSLabel">Total time:</span> <time itemprop="totalTime" datetime="PT40M">40 mins</time> </div> <div class="ERSSavePrint"> <span class="ERSPrintBtnSpan"><a class="ERSPrintBtn" href="http://www.afamilyfeast.com/easyrecipe-print/21807-0/" rel="nofollow" target="_blank">Print</a></span> </div> <div class="ERSClear"></div> </div> </div> <div class="ERSClear">&nbsp;</div> <div class="divERSHeadItems"></div> <div class="ERSIngredients"> <div class="ERSIngredientsHeader ERSHeading">Ingredients</div> <ul> <li class="ingredient" itemprop="ingredients">1 tablespoon extra-virgin olive oil</li> <li class="ingredient" itemprop="ingredients">½ cup celery, diced</li> <li class="ingredient" itemprop="ingredients">½ cup onion, diced</li> <li class="ingredient" itemprop="ingredients">¼ cup scallion bottoms, sliced (save tops)</li> <li class="ingredient" itemprop="ingredients">1 cup carrots, diced</li> <li class="ingredient" itemprop="ingredients">½ cup uncooked white rice</li> <li class="ingredient" itemprop="ingredients">Zest from one naval orange</li> <li class="ingredient" itemprop="ingredients">6 cups chicken stock, divided</li> <li class="ingredient" itemprop="ingredients">2 whole eggs</li> <li class="ingredient" itemprop="ingredients">¼ cup freshly squeezed orange juice</li> <li class="ingredient" itemprop="ingredients">2 tablespoons freshly squeezed lemon juice</li> <li class="ingredient" itemprop="ingredients">2 tablespoons freshly squeezed lime juice</li> <li class="ingredient" itemprop="ingredients">Dash of your favorite hot sauce, optional</li> <li class="ingredient" itemprop="ingredients">2 cups cooked chicken, broken into bite sized pieces</li> <li class="ingredient" itemprop="ingredients">1 cup frozen green peas, thawed</li> <li class="ingredient" itemprop="ingredients">¼ cup cilantro, chopped, plus more for garnish</li> <li class="ingredient" itemprop="ingredients">Sliced scallions (green part), for garnish</li> </ul> <div class="ERSClear"></div> </div> <div class="ERSInstructions"> <div class="ERSInstructionsHeader ERSHeading">Instructions</div> <ol> <li class="instruction" itemprop="recipeInstructions">In a <a href="http://amzn.to/2k3Ryz6" target="_blank" rel="nofollow">five-quart Dutch oven</a>, heat oil over medium high heat and add the celery, onion, scallion bottoms and carrots. Sauté for three minutes.</li> <li class="instruction" itemprop="recipeInstructions">Add the rice and orange zest and cook for one minute.</li> <li class="instruction" itemprop="recipeInstructions">Reserve one cup of stock and pour the rest into the pot. Mixture will bubble.</li> <li class="instruction" itemprop="recipeInstructions">Bring to a boil, lower heat to low, cover and cook covered for just ten minutes.</li> <li class="instruction" itemprop="recipeInstructions">While rice is cooking, whip the two eggs until frothy and add to the cup of reserved stock.</li> <li class="instruction" itemprop="recipeInstructions">Then add the juice from the orange, lemon and lime and stir. Set this aside.</li> <li class="instruction" itemprop="recipeInstructions">After ten minutes, remove lid and add the cooked chicken, green peas and cilantro and heat to hot, almost boiling.</li> <li class="instruction" itemprop="recipeInstructions">Remove from heat and ladle out a few cups of hot broth into the egg and juice mixture to temper it. Then slowly add this mixture back into the hot soup, stirring while you add.</li> <li class="instruction" itemprop="recipeInstructions">Heat the soup just until serving temperature and remove from heat.</li> <li class="instruction" itemprop="recipeInstructions">Add optional hot sauce if desired.</li> <li class="instruction" itemprop="recipeInstructions">Serve with chopped cilantro and scallion tops.</li> </ol> <div class="ERSClear"></div> </div> <div class="endeasyrecipe" title="style003" style="display: none">3.5.3226</div> </div><br/>
+Disclosure: This post contains affiliate links.</p>
+<p><script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "true";
+amzn_assoc_tracking_id = "afafe-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "My Amazon Picks";
+amzn_assoc_linkid = "1db60abf0b99eaf1b80719326c21203d";
+amzn_assoc_asins = "B0076NOGPY,B00004S7V8,B0007VO0DA,B001C2AVC2";
+</script><script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script></p>
+<p>You may also like:</p>
+<p style="text-align: center;"><a href="http://www.afamilyfeast.com/creamy-chicken-rice-soup/" target="_blank">Creamy Chicken and Rice Soup</a></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-11270" src="http://cdn1.afamilyfeast.com/wp-content/uploads/2014/09/creamy-chicken-and-rice-soup3.jpg" alt="Creamy Chicken and Rice Soup - A Family Feast" width="600" height="900" srcset="http://cdn1.afamilyfeast.com/wp-content/uploads/2014/09/creamy-chicken-and-rice-soup3.jpg 600w, http://cdn1.afamilyfeast.com/wp-content/uploads/2014/09/creamy-chicken-and-rice-soup3-200x300.jpg 200w" sizes="(max-width: 600px) 100vw, 600px"/></p>
+<p style="text-align: center;"><a href="http://www.afamilyfeast.com/orange-chicken-roasted-spatchcock-style/" target="_blank">Orange Chicken Roasted Spatchchock-Style</a></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-19686" src="http://cdn1.afamilyfeast.com/wp-content/uploads/2016/04/orange-chicken.jpg" alt="Orange Chicken Roasted Spatchcock-Style - A Family Feast" width="600" height="900" srcset="http://cdn1.afamilyfeast.com/wp-content/uploads/2016/04/orange-chicken.jpg 600w, http://cdn1.afamilyfeast.com/wp-content/uploads/2016/04/orange-chicken-200x300.jpg 200w, http://cdn1.afamilyfeast.com/wp-content/uploads/2016/04/orange-chicken-300x450.jpg 300w" sizes="(max-width: 600px) 100vw, 600px"/></p>
+<p style="text-align: center;"><a href="http://www.afamilyfeast.com/blue-moon-chicken/" target="_blank">Blue Moon Chicken</a></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-17091" src="http://cdn1.afamilyfeast.com/wp-content/uploads/2015/08/Blue-Moon-Chicken2.jpg" alt="Blue Moon Chicken - A Family Feast" width="560" height="840" srcset="http://cdn1.afamilyfeast.com/wp-content/uploads/2015/08/Blue-Moon-Chicken2.jpg 560w, http://cdn1.afamilyfeast.com/wp-content/uploads/2015/08/Blue-Moon-Chicken2-200x300.jpg 200w, http://cdn1.afamilyfeast.com/wp-content/uploads/2015/08/Blue-Moon-Chicken2-300x450.jpg 300w" sizes="(max-width: 560px) 100vw, 560px"/></p>
+<p style="text-align: center;"><a href="http://www.afamilyfeast.com/orange-chicken-vegetables/" target="_blank">Orange Chicken and Vegetables</a></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-12164" src="http://cdn1.afamilyfeast.com/wp-content/uploads/2014/10/Orange-Skillet-Chicken-and-Vegetables.jpg" alt="Orange Chicken and Vegetables - A Family Feast" width="560" height="840" srcset="http://cdn1.afamilyfeast.com/wp-content/uploads/2014/10/Orange-Skillet-Chicken-and-Vegetables.jpg 560w, http://cdn1.afamilyfeast.com/wp-content/uploads/2014/10/Orange-Skillet-Chicken-and-Vegetables-200x300.jpg 200w, http://cdn1.afamilyfeast.com/wp-content/uploads/2014/10/Orange-Skillet-Chicken-and-Vegetables-300x450.jpg 300w" sizes="(max-width: 560px) 100vw, 560px"/></p>
+<p style="text-align: center;"><img class="aligncenter wp-image-21813 size-full" src="http://cdn1.afamilyfeast.com/wp-content/uploads/2017/01/Citrus-Chicken-Rice-Soup-Collage.jpg" alt="Citrus Chicken and Rice Soup - Orange, lemon and lime juice add a fresh flavor twist to this classic chicken soup recipe." width="700" height="2100" srcset="http://cdn1.afamilyfeast.com/wp-content/uploads/2017/01/Citrus-Chicken-Rice-Soup-Collage.jpg 700w, http://cdn1.afamilyfeast.com/wp-content/uploads/2017/01/Citrus-Chicken-Rice-Soup-Collage-100x300.jpg 100w, http://cdn1.afamilyfeast.com/wp-content/uploads/2017/01/Citrus-Chicken-Rice-Soup-Collage-341x1024.jpg 341w, http://cdn1.afamilyfeast.com/wp-content/uploads/2017/01/Citrus-Chicken-Rice-Soup-Collage-300x900.jpg 300w" sizes="(max-width: 700px) 100vw, 700px"/></p>
+<div class='shareaholic-canvas' data-app-id='7683770' data-app='share_buttons' data-title='Citrus Chicken and Rice Soup' data-link='http://www.afamilyfeast.com/citrus-chicken-and-rice-soup/' data-summary=''></div><div class='shareaholic-canvas' data-app-id='7683778' data-app='recommendations' data-title='Citrus Chicken and Rice Soup' data-link='http://www.afamilyfeast.com/citrus-chicken-and-rice-soup/' data-summary=''></div> 
+</div><div class="post-meta"><span class="categories">Filed Under: <a href="http://www.afamilyfeast.com/category/categorized/soup/" rel="category tag">Soup</a></span> <span class="tags">Tagged With: <a href="http://www.afamilyfeast.com/tag/chicken/" rel="tag">chicken</a>, <a href="http://www.afamilyfeast.com/tag/lemon-juice/" rel="tag">lemon juice</a>, <a href="http://www.afamilyfeast.com/tag/lime-juice/" rel="tag">lime juice</a>, <a href="http://www.afamilyfeast.com/tag/orange-juice/" rel="tag">orange juice</a>, <a href="http://www.afamilyfeast.com/tag/rice/" rel="tag">rice</a></span></div>
+</div>
+</div><div id="comments"><h3>Comments</h3><ol class="comment-list"> <div id="respond" class="comment-respond">
+<h3 id="reply-title" class="comment-reply-title">Leave a Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="/citrus-chicken-and-rice-soup/#respond" style="display:none;">Cancel reply</a></small></h3> <form action="http://www.afamilyfeast.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+<p class="comment-form-comment"><textarea id="comment" name="comment" cols="45" rows="8" tabindex="4" aria-required="true"></textarea></p><p class="comment-form-author"><input id="author" name="author" type="text" value="" size="30" tabindex="1" aria-required="true"/><label for="author">Name</label> <span class="required">*</span></p>
+<p class="comment-form-email"><input id="email" name="email" type="text" value="" size="30" tabindex="2" aria-required="true"/><label for="email">Email</label> <span class="required">*</span></p>
+<p class="comment-form-url"><input id="url" name="url" type="text" value="" size="30" tabindex="3"/><label for="url">Website</label></p>
+  <p class='comment-form-subscriptions'><label for='subscribe-reloaded'><input style='width:30px' type='checkbox' name='subscribe-reloaded' id='subscribe-reloaded' value='replies'/> Notify me of followup comments via e-mail. You can also <a href="http://www.afamilyfeast.com/comment-subscriptions/?srp=21807&amp;srk=ccd910e383adda64aa668065154a73ca&amp;sra=s&amp;srsrc=f">subscribe</a> without commenting.</label></p> <p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment"/> <input type='hidden' name='comment_post_ID' value='21807' id='comment_post_ID'/>
+<input type='hidden' name='comment_parent' id='comment_parent' value='0'/>
+</p><input type="hidden" name="ff6133ad4dd110b3867096f976f6c26c" value="ff6133ad4dd110b3867096f976f6c26c"/><p id="gasp_p" style="clear:both;"></p><script type="text/javascript">
+        //v1.5.1
+        var gasp_p = document.getElementById("gasp_p");
+        var gasp_cb = document.createElement("input");
+        var gasp_text = document.createTextNode(" Confirm you are NOT a spammer");
+        gasp_cb.type = "checkbox";
+        gasp_cb.id = "cl_check_317";
+        gasp_cb.name = "cl_check_317";
+
+        var gasp_label = document.createElement("label");
+        gasp_p.appendChild(gasp_label);
+        gasp_label.appendChild(gasp_cb);
+        gasp_label.appendChild(gasp_text);
+        var frm = gasp_cb.form;
+        frm.onsubmit = gasp_it;
+        function gasp_it(){
+        if(gasp_cb.checked != true){
+        alert("Please check the box to confirm that you are NOT a spammer");
+        return false;
+        }
+        return true;
+        }
+        </script>
+<noscript>you MUST enable javascript to be able to comment</noscript>
+<input type="hidden" id="gasp_email" name="gasp_email" value=""/><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="fc2bafc804"/></p><input type="hidden" name="cl_post_title" id="cl_post_title"/><input type="hidden" name="cl_post_url" id="cl_post_url"/><input type="hidden" name="cl_prem" id="cl_prem"/><div id="commentluv"><div id="cl_messages"></div><input type="checkbox" id="doluv" name="doluv" checked="checked"/><span id="mylastpost"><img alt="CommentLuv badge" src="http://cdn1.afamilyfeast.com/wp-content/plugins/commentluv/images/CL91_default.png"/></span><span id="showmorespan"><img class="clarrow" id="showmore" src="http://cdn1.afamilyfeast.com/wp-content/plugins/commentluv/images/down-arrow.gif" alt="Show more posts" title="Show more posts" style="display:none;"/></span></div><div id="lastposts" style="display:none;"></div><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="152"/></p> </form>
+</div> 
+<li class="comment even thread-even depth-1" id="comment-56775">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt='' src='http://1.gravatar.com/avatar/a8ef774e55fc96eea9971f8f56ee358b?s=48&#038;d=blank&#038;r=g' srcset='http://1.gravatar.com/avatar/a8ef774e55fc96eea9971f8f56ee358b?s=96&amp;d=blank&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48'/> <cite class="fn">Feestzaal</cite> <span class="says">:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://www.afamilyfeast.com/citrus-chicken-and-rice-soup/#comment-56775">January 25, 2017 at 1:36 am</a>
+</div>
+</div>
+<div class="comment-content">
+<p>Thanks for sharing this recipe! This seems to be a perfect soup, rich in both taste as well as nutrition!</p>
+</div>
+<div class="reply">
+<a rel='nofollow' class='comment-reply-link' href='http://www.afamilyfeast.com/citrus-chicken-and-rice-soup/?replytocom=56775#respond' onclick='return addComment.moveForm( "comment-56775", "56775", "respond", "21807" )' aria-label='Reply to Feestzaal'>Reply</a> </div>
+<ul class="children">
+<li class="comment byuser comment-author-martha bypostauthor odd alt depth-2" id="comment-56805">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt='' src='http://0.gravatar.com/avatar/950b4d2612335a504fcae75dfc0941b4?s=48&#038;d=blank&#038;r=g' srcset='http://0.gravatar.com/avatar/950b4d2612335a504fcae75dfc0941b4?s=96&amp;d=blank&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48'/> <cite class="fn"><a href='http://www.afamilyfeast.com' rel='external nofollow' class='url'>Martha</a></cite> <span class="says">:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://www.afamilyfeast.com/citrus-chicken-and-rice-soup/#comment-56805">January 25, 2017 at 4:55 pm</a>
+</div>
+</div>
+<div class="comment-content">
+<p>You&#8217;re very welcome!</p>
+</div>
+<div class="reply">
+<a rel='nofollow' class='comment-reply-link' href='http://www.afamilyfeast.com/citrus-chicken-and-rice-soup/?replytocom=56805#respond' onclick='return addComment.moveForm( "comment-56805", "56805", "respond", "21807" )' aria-label='Reply to Martha'>Reply</a> </div>
+</li> 
+</ul> 
+</li> 
+</ol></div></div><div id="sidebar" class="sidebar widget-area"><div id="user-profile-2" class="widget user-profile"><div class="widget-wrap"><h4 class="widget-title widgettitle">Welcome</h4>
+<p><span class="alignleft"><img alt='' src='http://1.gravatar.com/avatar/769cb9930f9d8c678201fec999a8558f?s=125&#038;d=blank&#038;r=g' srcset='http://1.gravatar.com/avatar/769cb9930f9d8c678201fec999a8558f?s=250&amp;d=blank&amp;r=g 2x' class='avatar avatar-125 photo' height='125' width='125'/></span>Welcome to A Family Feast! We're so glad to have you join us in the kitchen!<br/>
+<a class="pagelink" href="http://www.afamilyfeast.com/about-us/">[More…]</a></p>
+</div></div>
+<div id="categories-7" class="widget widget_categories"><div class="widget-wrap"><h4 class="widget-title widgettitle">Search Recipes by Category</h4>
+<label class="screen-reader-text" for="cat">Search Recipes by Category</label><select name='cat' id='cat' class='postform'>
+<option value='-1'>Select Category</option>
+<option class="level-0" value="13">Appetizer</option>
+<option class="level-0" value="14">Beverage</option>
+<option class="level-0" value="15">Bread</option>
+<option class="level-0" value="16">Breakfast</option>
+<option class="level-0" value="120">Categorized</option>
+<option class="level-0" value="600">Collections</option>
+<option class="level-0" value="635">Cookbook Reviews</option>
+<option class="level-0" value="18">Dessert</option>
+<option class="level-0" value="73">Entrée</option>
+<option class="level-0" value="736">Home</option>
+<option class="level-0" value="143">How-To&#8217;s</option>
+<option class="level-0" value="21">Salad</option>
+<option class="level-0" value="22">Side Dish</option>
+<option class="level-0" value="23">Snack</option>
+<option class="level-0" value="24">Soup</option>
+<option class="level-0" value="497">Sponsored Posts</option>
+<option class="level-0" value="618">Sunday Cooking Lessons</option>
+<option class="level-0" value="648">Travel</option>
+<option class="level-0" value="1">Uncategorized</option>
+</select>
+<script type='text/javascript'>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			location.href = "http://www.afamilyfeast.com/?cat=" + dropdown.options[ dropdown.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+</div></div>
+<div id="text-56" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Our Latest Videos</h4>
+<div class="textwidget"><script type="text/javascript" language="javascript" src="http://live.sekindo.com/live/liveView.php?s=59191&pubUrl=[SRC_URL_ENCODED]&nofr=1&vp_contentFeedId=BnDxT11T&subId=52e41fac28963d1e058a1126"></script></div>
+</div></div>
+<div id="featured-post-5" class="widget featuredpost"><div class="widget-wrap"><h4 class="widget-title widgettitle">Healthy &#038; Delicious</h4>
+<div class="post-5797 post type-post status-publish format-standard has-post-thumbnail hentry category-entree tag-asian tag-carrots tag-healthy tag-onions tag-peppers tag-pineapple tag-shrimp tag-water-chestnuts tag-weight-watchers entry gfwa-1 gfwa-odd"><a href="http://www.afamilyfeast.com/sweet-and-sour-shrimp-stir-fry/" title="Sweet and Sour Shrimp Stir-Fry" class="aligncenter"><img width="150" height="150" src="http://cdn1.afamilyfeast.com/wp-content/uploads/2013/08/Sweet-sour-shrimp2-150x150.jpg" class="aligncenter" alt="Sweet and Sour Shrimp Stir-Fry - A Family Feast"/></a><h2><a href="http://www.afamilyfeast.com/sweet-and-sour-shrimp-stir-fry/" title="Sweet and Sour Shrimp Stir-Fry">Sweet and Sour Shrimp Stir-Fry</a></h2></div> 
+<div class="post-8274 post type-post status-publish format-standard has-post-thumbnail hentry category-collections category-salad tag-collections-2 tag-healthy tag-salads entry gfwa-2 gfwa-even"><a href="http://www.afamilyfeast.com/20-sensational-healthy-salads/" title="20 Sensational Healthy Salads" class="aligncenter"><img width="150" height="150" src="http://cdn1.afamilyfeast.com/wp-content/uploads/2014/01/salad-roundup-logo-150x150.jpg" class="aligncenter" alt="20 Sensational Healthy Salads - A Family Feast"/></a><h2><a href="http://www.afamilyfeast.com/20-sensational-healthy-salads/" title="20 Sensational Healthy Salads">20 Sensational Healthy Salads</a></h2></div> 
+<div class="post-8509 post type-post status-publish format-standard has-post-thumbnail hentry category-entree category-sponsored-posts tag-asian tag-beef tag-healthy tag-weight-watchers entry gfwa-3 gfwa-odd"><a href="http://www.afamilyfeast.com/beef-teriyaki-vegetables/" title="Beef Teriyaki and Vegetables" class="aligncenter"><img width="150" height="150" src="http://cdn1.afamilyfeast.com/wp-content/uploads/2014/01/WW-stirfry1-150x150.jpg" class="aligncenter" alt="Beef Teriyaki and Vegetables - A Family Feast #SimpleStart"/></a><h2><a href="http://www.afamilyfeast.com/beef-teriyaki-vegetables/" title="Beef Teriyaki and Vegetables">Beef Teriyaki and Vegetables</a></h2></div> 
+<div class="post-16199 post type-post status-publish format-standard has-post-thumbnail hentry category-entree tag-asian tag-asian-cuisine tag-beef tag-healthy tag-weight-watchers entry gfwa-4 gfwa-even"><a href="http://www.afamilyfeast.com/moo-shu-beef-lettuce-cups/" title="Moo Shu Beef Lettuce Cups" class="aligncenter"><img width="150" height="150" src="http://cdn1.afamilyfeast.com/wp-content/uploads/2015/06/Thai-Beef-Lettuce-Wraps2-150x150.jpg" class="aligncenter" alt="Moo Shu Beef Lettuce Cups - A Family Feast"/></a><h2><a href="http://www.afamilyfeast.com/moo-shu-beef-lettuce-cups/" title="Moo Shu Beef Lettuce Cups">Moo Shu Beef Lettuce Cups</a></h2></div> 
+<div class="post-16389 post type-post status-publish format-standard has-post-thumbnail hentry category-salad tag-cucumbers tag-dijon-mustard tag-dill tag-healthy tag-vegetables entry gfwa-5 gfwa-odd"><a href="http://www.afamilyfeast.com/simple-cucumber-salad/" title="Simple Cucumber Salad" class="aligncenter"><img width="150" height="150" src="http://cdn1.afamilyfeast.com/wp-content/uploads/2015/06/Simple-Cucumber-Salad-150x150.jpg" class="aligncenter" alt="Simple Cucumber Salad - A Family Feast"/></a><h2><a href="http://www.afamilyfeast.com/simple-cucumber-salad/" title="Simple Cucumber Salad">Simple Cucumber Salad</a></h2></div> 
+<div class="post-19164 post type-post status-publish format-standard has-post-thumbnail hentry category-entree tag-beef tag-cabbage tag-polish-family-classics tag-pork tag-whole30 entry gfwa-6 gfwa-even"><a href="http://www.afamilyfeast.com/whole30-stuffed-cabbage/" title="Whole30 Stuffed Cabbage" class="aligncenter"><img width="150" height="150" src="http://cdn1.afamilyfeast.com/wp-content/uploads/2016/02/Whole-30-Stuffed-Cabbage-150x150.jpg" class="aligncenter" alt="Whole30 Stuffed Cabbage - A Family Feast"/></a><h2><a href="http://www.afamilyfeast.com/whole30-stuffed-cabbage/" title="Whole30 Stuffed Cabbage">Whole30 Stuffed Cabbage</a></h2></div> 
+<div class="post-19251 post type-post status-publish format-standard has-post-thumbnail hentry category-side-dish tag-basil tag-low-carb tag-spaghetti-squash tag-tomatoes tag-whole30 entry gfwa-7 gfwa-odd"><a href="http://www.afamilyfeast.com/whole30-spaghetti-squash-with-pesto/" title="Whole30 Spaghetti Squash with Pesto" class="aligncenter"><img width="150" height="150" src="http://cdn1.afamilyfeast.com/wp-content/uploads/2016/03/spaghetti-squash-pesto-tomatoes-150x150.jpg" class="aligncenter" alt="Whole30 Spaghetti Squash with Pesto - A Family Feast"/></a><h2><a href="http://www.afamilyfeast.com/whole30-spaghetti-squash-with-pesto/" title="Whole30 Spaghetti Squash with Pesto">Whole30 Spaghetti Squash with Pesto</a></h2></div> 
+<div class="post-19388 post type-post status-publish format-standard has-post-thumbnail hentry category-entree tag-chicken tag-kale tag-olives tag-sundried-tomatoes tag-whole30 entry gfwa-8 gfwa-even"><a href="http://www.afamilyfeast.com/whole30-west-coast-chicken/" title="Whole30 West Coast Chicken" class="aligncenter"><img width="150" height="150" src="http://cdn1.afamilyfeast.com/wp-content/uploads/2016/03/Whole30-West-Coast-Chicken1-150x150.jpg" class="aligncenter" alt="Whole30 West Coast Chicken - A Family Feast"/></a><h2><a href="http://www.afamilyfeast.com/whole30-west-coast-chicken/" title="Whole30 West Coast Chicken">Whole30 West Coast Chicken</a></h2></div> 
+</div></div>
+<div id="featured-post-6" class="widget featuredpost"><div class="widget-wrap"><h4 class="widget-title widgettitle">Popular Posts</h4>
+<div class="post-13844 post type-post status-publish format-standard has-post-thumbnail hentry category-dessert tag-chocolate-chips tag-pie tag-pie-crust tag-toll-house entry gfwa-1 gfwa-odd"><a href="http://www.afamilyfeast.com/toll-house-chocolate-chip-pie/" title="Toll House Chocolate Chip Pie" class="aligncenter"><img width="150" height="150" src="http://cdn1.afamilyfeast.com/wp-content/uploads/2015/01/toll-house-cookie-pie1-150x150.jpg" class="aligncenter" alt="Toll House Chocolate Chip Pie - A Family Feast"/></a><h2><a href="http://www.afamilyfeast.com/toll-house-chocolate-chip-pie/" title="Toll House Chocolate Chip Pie">Toll House Chocolate Chip Pie</a></h2></div> 
+<div class="post-11182 post type-post status-publish format-standard has-post-thumbnail hentry category-dessert tag-chocolate tag-hersheys entry gfwa-2 gfwa-even"><a href="http://www.afamilyfeast.com/hot-fudge-pudding-cake/" title="Hot Fudge Pudding Cake" class="aligncenter"><img width="150" height="150" src="http://cdn1.afamilyfeast.com/wp-content/uploads/2014/08/hot-fudge-pudding-cake2-150x150.jpg" class="aligncenter" alt="Hot Fudge Pudding Cake - A Family Feast"/></a><h2><a href="http://www.afamilyfeast.com/hot-fudge-pudding-cake/" title="Hot Fudge Pudding Cake">Hot Fudge Pudding Cake</a></h2></div> 
+<div class="post-9001 post type-post status-publish format-standard has-post-thumbnail hentry category-entree tag-cinco-de-mayo tag-pork entry gfwa-3 gfwa-odd"><a href="http://www.afamilyfeast.com/carnitas/" title="Carnitas" class="aligncenter"><img width="150" height="150" src="http://cdn1.afamilyfeast.com/wp-content/uploads/2014/02/carnitas2-150x150.jpg" class="aligncenter" alt="Carnitas - A Family Feast"/></a><h2><a href="http://www.afamilyfeast.com/carnitas/" title="Carnitas">Carnitas</a></h2></div> 
+<div class="post-8796 post type-post status-publish format-standard has-post-thumbnail hentry category-entree tag-chicken tag-quick-weeknight-dinners entry gfwa-4 gfwa-even"><a href="http://www.afamilyfeast.com/chicken-breasts-mushroom-onion-dijon-sauce/" title="Chicken Breasts with Mushroom and Onion Dijon Sauce" class="aligncenter"><img width="150" height="150" src="http://cdn1.afamilyfeast.com/wp-content/uploads/2014/02/mustard-chicken2-150x150.jpg" class="aligncenter" alt="Chicken Breasts with Mushroom and Onion Dijon Sauce - A Family Feast"/></a><h2><a href="http://www.afamilyfeast.com/chicken-breasts-mushroom-onion-dijon-sauce/" title="Chicken Breasts with Mushroom and Onion Dijon Sauce">Chicken Breasts with Mushroom and Onion Dijon Sauce</a></h2></div> 
+<div class="post-7091 post type-post status-publish format-standard has-post-thumbnail hentry category-entree category-how-tos tag-beef tag-butter tag-garlic tag-steak entry gfwa-5 gfwa-odd"><a href="http://www.afamilyfeast.com/perfect-pan-seared-steak/" title="Perfect Pan-Seared Steak" class="aligncenter"><img width="150" height="150" src="http://cdn1.afamilyfeast.com/wp-content/uploads/2013/10/perfect-steak3-150x150.jpg" class="aligncenter" alt="Perfect Pan-Seared Steak - A Family Feast"/></a><h2><a href="http://www.afamilyfeast.com/perfect-pan-seared-steak/" title="Perfect Pan-Seared Steak">Perfect Pan-Seared Steak</a></h2></div> 
+<div class="post-4715 post type-post status-publish format-standard has-post-thumbnail hentry category-dessert tag-nutella tag-rice-krispies tag-vanilla-ice-cream entry gfwa-6 gfwa-even"><a href="http://www.afamilyfeast.com/nutella-crunch-ice-cream-cake/" title="Nutella Crunch Ice Cream Cake" class="aligncenter"><img width="150" height="150" src="http://cdn1.afamilyfeast.com/wp-content/uploads/2013/05/nutella_crunch_cake-150x150.jpg" class="aligncenter" alt="Nutella Crunch Ice Cream Cake - A Family Feast"/></a><h2><a href="http://www.afamilyfeast.com/nutella-crunch-ice-cream-cake/" title="Nutella Crunch Ice Cream Cake">Nutella Crunch Ice Cream Cake</a></h2></div> 
+<div class="post-4229 post type-post status-publish format-standard has-post-thumbnail hentry category-entree category-how-tos category-side-dish tag-basil tag-garlic tag-italian-family-classics tag-mint tag-onion tag-oregano tag-tomatoes entry gfwa-7 gfwa-odd"><a href="http://www.afamilyfeast.com/italian-tomato-sauce/" title="Italian Tomato Sauce" class="aligncenter"><img width="150" height="150" src="http://cdn1.afamilyfeast.com/wp-content/uploads/2013/04/tomato_sauce1-150x150.jpg" class="aligncenter" alt="Italian_Tomato_Sauce - A Family Feast"/></a><h2><a href="http://www.afamilyfeast.com/italian-tomato-sauce/" title="Italian Tomato Sauce">Italian Tomato Sauce</a></h2></div> 
+<div class="post-4079 post type-post status-publish format-standard has-post-thumbnail hentry category-entree tag-cheese tag-chicken tag-cinco-de-mayo tag-hot-sauce tag-tortillas entry gfwa-8 gfwa-even"><a href="http://www.afamilyfeast.com/chicken-chimichangas/" title="Chicken Chimichangas" class="aligncenter"><img width="150" height="150" src="http://cdn1.afamilyfeast.com/wp-content/uploads/2013/04/chicken_chimichanga_3-150x150.jpg" class="aligncenter" alt="Chicken Chimichangas - A Family Feast"/></a><h2><a href="http://www.afamilyfeast.com/chicken-chimichangas/" title="Chicken Chimichangas">Chicken Chimichangas</a></h2></div> 
+<div class="post-1391 post type-post status-publish format-standard has-post-thumbnail hentry category-salad tag-brown-sugar tag-celery tag-chicken tag-mayonnaise tag-onion entry gfwa-9 gfwa-odd"><a href="http://www.afamilyfeast.com/copycat-willow-tree-chicken-salad/" title="Copycat Willow Tree Chicken Salad" class="aligncenter"><img width="150" height="150" src="http://cdn1.afamilyfeast.com/wp-content/uploads/2012/11/chickensalad1-150x150.jpg" class="aligncenter" alt="Copycat Willow Tree Chicken Salad - A Family Feast" srcset="http://cdn1.afamilyfeast.com/wp-content/uploads/2012/11/chickensalad1-150x150.jpg 150w, http://cdn1.afamilyfeast.com/wp-content/uploads/2012/11/chickensalad1-80x80.jpg 80w" sizes="(max-width: 150px) 100vw, 150px"/></a><h2><a href="http://www.afamilyfeast.com/copycat-willow-tree-chicken-salad/" title="Copycat Willow Tree Chicken Salad">Copycat Willow Tree Chicken Salad</a></h2></div> 
+</div></div>
+</div></div><div id="sidebar-alt" class="sidebar widget-area"><div id="text-32" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Never Miss a Recipe!</h4>
+<div class="textwidget"><div style="position:relative; height:280px; width:160px; background:url(http://cdn1.afamilyfeast.com/wp-content/uploads/2016/03/Free-e-Book160-banner.jpg) 0 0 no-repeat;"><a style="position:absolute; top:2px; left:3px; width:155px; height:276px;" title="A Family Feast Email Subscription" alt="A Family Feast Email Subscription" href="http://eepurl.com/BF_ND" target="_blank"></a><a style="position:absolute; overflow:hidden; top:278px; left:158px; width:1px; height:1px;" title="HTML Map creator" alt="Image HTML map generator" href="http://www.html-map.com/" target="_self"></a></div></div>
+</div></div>
+<div id="search-2" class="widget widget_search"><div class="widget-wrap"><h4 class="widget-title widgettitle">Recipe Search</h4>
+<form method="get" class="searchform search-form" action="http://www.afamilyfeast.com/" role="search"><input type="text" value="Search this website &#x2026;" name="s" class="s search-input" onfocus="if (&#039;Search this website &#x2026;&#039; === this.value) {this.value = &#039;&#039;;}" onblur="if (&#039;&#039; === this.value) {this.value = &#039;Search this website &#x2026;&#039;;}"/><input type="submit" class="searchsubmit search-submit" value="Search"/></form></div></div>
+<div id="text-11" class="widget widget_text"><div class="widget-wrap"> <div class="textwidget"><div style="text-align:center; width:133px; margin-left:auto; margin-right:auto;"><img id="Image-Maps_5201303071338277" src="http://cdn1.afamilyfeast.com/wp-content/uploads/2013/03/AmazonStore.jpg" usemap="#Image-Maps_5201303071338277" border="0" width="133" height="305" alt=""/><map id="_Image-Maps_5201303071338277" name="Image-Maps_5201303071338277"><area shape="rect" coords="0,0,128,300" href="http://astore.amazon.com/afafe-20" alt="Amazon Store - AFamilyFeast" title="Amazon Store - AFamilyFeast"/><area shape="rect" coords="129,301,131,303" href="http://www.image-maps.com/index.php?aff=mapped_users_5201303071338277" alt="Image Map" title="Image Map"/></map></div>
+</div>
+</div></div>
+<div id="text-59" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Our Sponsors</h4>
+<div class="textwidget"><img src="http://cdn1.afamilyfeast.com/wp-content/uploads/2015/08/Peapod-Badge.jpg" usemap="#image-map">
+<map name="image-map">
+<area target="_blank" alt=" Peapod Badge" title="Peapod Badge" href=" http:// www.fromthepod.com/peas-from-the-pod/" rel="nofollow" coords="" shape="rect">
+</map></div>
+</div></div>
+<div id="text-57" class="widget widget_text"><div class="widget-wrap"> <div class="textwidget"><img src="http://cdn1.afamilyfeast.com/wp-content/uploads/2017/01/thumbnail_Team-Dairy-Bogger-Logo.160.jpg" usemap="#image-map">
+<map name="image-map">
+<area target="_blank" alt="Team Dairy New England" title="Team Dairy New England" href=" http://www.mustbethemilk.com/team-dairy-blog-network/" rel="nofollow" coords="" shape="rect">
+</map>
+</div>
+</div></div>
+</div></div><div id="footer-widgets" class="footer-widgets"><div class="wrap"><div class="footer-widgets-1 widget-area"><div id="text-38" class="widget widget_text"><div class="widget-wrap"> <div class="textwidget">A Family Feast ® is a registered trademark of A Family Feast, Inc. All content, including recipes, text, visual elements, and photographs are copyright © A Family Feast, Inc. 2012-2017, unless otherwise stated. All rights reserved.
+To view our privacy policy<a href="http://www.afamilyfeast.com/legal/" target="_blank"> click here.</a></div>
+</div></div>
+</div></div></div><div id="footer" class="footer"><div class="wrap"><div class="creds"><p>Copyright &copy; 2017 A Family Feast, Inc. &middot; Creative Web Design by <a href="http://vivalaviolette.com"><img src="http://cdn1.afamilyfeast.com/wp-content/uploads/2013/05/vlv-heart.png"/> Viva la Violette</a><br/></p></div><div class="gototop"><p><a href="#wrap" rel="nofollow">Return to top of page</a></p></div></div></div></div> <div style="display:none">
+<div class="grofile-hash-map-a8ef774e55fc96eea9971f8f56ee358b">
+</div>
+<div class="grofile-hash-map-950b4d2612335a504fcae75dfc0941b4">
+</div>
+<div class="grofile-hash-map-769cb9930f9d8c678201fec999a8558f">
+</div>
+</div>
+ 
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-nzeXYsRJLuxSe"
+});
+</script>
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-nzeXYsRJLuxSe.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+ <script type='text/javascript' src='http://cdn2.afamilyfeast.com/wp-content/plugins/akismet/_inc/form.js?ver=3.2'></script>
+<link rel='stylesheet' id='stcr-plugin-style-css' href='http://cdn2.afamilyfeast.com/wp-content/plugins/subscribe-to-comments-reloaded/includes/css/stcr-plugin-style.css?ver=4.7.1' type='text/css' media='all'/>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201704'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2017Janaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn2.afamilyfeast.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.7.1'></script>
+<script type='text/javascript' src='http://cdn2.afamilyfeast.com/wp-includes/js/comment-reply.min.js?ver=4.7.1'></script>
+<script type='text/javascript' src='http://cdn2.afamilyfeast.com/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript' src='http://cdn2.afamilyfeast.com/wp-content/themes/genesis/lib/js/menu/superfish.min.js?ver=1.7.5'></script>
+<script type='text/javascript' src='http://cdn2.afamilyfeast.com/wp-content/themes/genesis/lib/js/menu/superfish.args.min.js?ver=2.4.2'></script>
+<script type='text/javascript' src='http://cdn2.afamilyfeast.com/wp-content/themes/genesis/lib/js/menu/superfish.compat.min.js?ver=2.4.2'></script>
+<script type='text/javascript' src='http://cdn2.afamilyfeast.com/wp-includes/js/wp-embed.min.js?ver=4.7.1'></script>
+<script type='text/javascript' src='http://cdn2.afamilyfeast.com/wp-content/plugins/subscribe-to-comments-reloaded/includes/js/stcr-plugin.js?ver=4.7.1'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201704.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.5',blog:'40902144',post:'21807',tz:'-4',srv:'www.afamilyfeast.com'} ]);
+	_stq.push([ 'clickTrackerInit', '40902144', '21807' ]);
+</script>
+</body></html>
+ 
