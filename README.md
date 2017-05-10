@@ -1,4 +1,4 @@
-#RecipeNet
+# RecipeNet
 
 Our attempt to provide a web interface to a Character Recurrent Neural Network which had been trained on a few of desert recipes. Results aren't really what we wanted, but it works so YAY!
 
